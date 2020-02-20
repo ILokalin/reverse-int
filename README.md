@@ -1,4 +1,5 @@
 # Reverse Int
+[![Build status](https://ci.appveyor.com/api/projects/status/qeu17upstbu29vs9?svg=true)](https://ci.appveyor.com/project/ILokalin/reverse-int)
 
 ## Task
 
